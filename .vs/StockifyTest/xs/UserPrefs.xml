@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B1611A2B-80D2-4662-82C3-9674F51D164A}|Default">
+  <MonoDevelop.Ide.ItemProperties.StockifyTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockifyTest/StockifyTest.csproj">
+    <Files>
+      <File FileName="StockifyTest/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="StockifyTest/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="StockifyTest/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="StockifyTest/WeatherForecast.cs" Line="5" Column="1" />
+      <File FileName="StockifyTest/StockifyTest.csproj" Line="6" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockifyTest" expanded="True">
+            <Node name="StockifyTest" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chris/Projects/StockifyTest/StockifyTest/Controllers/WeatherForecastController.cs" relfile="StockifyTest/Controllers/WeatherForecastController.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
